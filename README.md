@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yurtkan</h1>
 <h3 align="center">Junior frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurtkan" alt="yurtkan" /></a> </p>
-
 - 🔭 I’m currently working on **some react project :)**
 
 - 🌱 I’m currently learning **React, React Native, Next.js**
@@ -19,3 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurtkan&show_icons=true&locale=en" alt="yurtkan" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurtkan" alt="yurtkan" /></a> </p>
